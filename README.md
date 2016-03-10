@@ -1,5 +1,5 @@
 # BGIScrViewer
-A tool for viewing decompressed scripts of BGI visual novel games. Core code formerly written by Amemiya.
+A tool for viewing decompressed scripts of BGI visual novel games.
 
 ##TheProgram
 The core decoding code is formerly written by Amemiya. Also two related original class files are adopted here.
