@@ -2,7 +2,7 @@
 A tool for viewing decompressed scripts of BGI visual novel games.
 
 ##TheProgram
-The core decoding code is formerly written by Amemiya. Also two related original class files are adopted here.
+The core decoding code is formerly written by xupefei(Amemiya). Also two related original class files are adopted here.
 In comparison, this program provides a GUI of Chinese language support, thus it is easy and convenient to use.
 
 ##Functions
