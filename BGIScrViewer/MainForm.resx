@@ -147,7 +147,358 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>6</value>
+  </data>
+  <metadata name="contextMenuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="toolStripComboBox_src.Items" xml:space="preserve">
+    <value>ar</value>
+  </data>
+  <data name="toolStripComboBox_src.Items1" xml:space="preserve">
+    <value>bs-Latn</value>
+  </data>
+  <data name="toolStripComboBox_src.Items2" xml:space="preserve">
+    <value>bg</value>
+  </data>
+  <data name="toolStripComboBox_src.Items3" xml:space="preserve">
+    <value>ca</value>
+  </data>
+  <data name="toolStripComboBox_src.Items4" xml:space="preserve">
+    <value>zh-CHS</value>
+  </data>
+  <data name="toolStripComboBox_src.Items5" xml:space="preserve">
+    <value>zh-CHT</value>
+  </data>
+  <data name="toolStripComboBox_src.Items6" xml:space="preserve">
+    <value>hr</value>
+  </data>
+  <data name="toolStripComboBox_src.Items7" xml:space="preserve">
+    <value>cs</value>
+  </data>
+  <data name="toolStripComboBox_src.Items8" xml:space="preserve">
+    <value>da</value>
+  </data>
+  <data name="toolStripComboBox_src.Items9" xml:space="preserve">
+    <value>nl</value>
+  </data>
+  <data name="toolStripComboBox_src.Items10" xml:space="preserve">
+    <value>en</value>
+  </data>
+  <data name="toolStripComboBox_src.Items11" xml:space="preserve">
+    <value>et</value>
+  </data>
+  <data name="toolStripComboBox_src.Items12" xml:space="preserve">
+    <value>fi</value>
+  </data>
+  <data name="toolStripComboBox_src.Items13" xml:space="preserve">
+    <value>fr</value>
+  </data>
+  <data name="toolStripComboBox_src.Items14" xml:space="preserve">
+    <value>de</value>
+  </data>
+  <data name="toolStripComboBox_src.Items15" xml:space="preserve">
+    <value>el</value>
+  </data>
+  <data name="toolStripComboBox_src.Items16" xml:space="preserve">
+    <value>ht</value>
+  </data>
+  <data name="toolStripComboBox_src.Items17" xml:space="preserve">
+    <value>he</value>
+  </data>
+  <data name="toolStripComboBox_src.Items18" xml:space="preserve">
+    <value>hi</value>
+  </data>
+  <data name="toolStripComboBox_src.Items19" xml:space="preserve">
+    <value>mww</value>
+  </data>
+  <data name="toolStripComboBox_src.Items20" xml:space="preserve">
+    <value>hu</value>
+  </data>
+  <data name="toolStripComboBox_src.Items21" xml:space="preserve">
+    <value>id</value>
+  </data>
+  <data name="toolStripComboBox_src.Items22" xml:space="preserve">
+    <value>it</value>
+  </data>
+  <data name="toolStripComboBox_src.Items23" xml:space="preserve">
+    <value>ja</value>
+  </data>
+  <data name="toolStripComboBox_src.Items24" xml:space="preserve">
+    <value>sw</value>
+  </data>
+  <data name="toolStripComboBox_src.Items25" xml:space="preserve">
+    <value>tlh</value>
+  </data>
+  <data name="toolStripComboBox_src.Items26" xml:space="preserve">
+    <value>tlh-Qaak</value>
+  </data>
+  <data name="toolStripComboBox_src.Items27" xml:space="preserve">
+    <value>ko</value>
+  </data>
+  <data name="toolStripComboBox_src.Items28" xml:space="preserve">
+    <value>lv</value>
+  </data>
+  <data name="toolStripComboBox_src.Items29" xml:space="preserve">
+    <value>lt</value>
+  </data>
+  <data name="toolStripComboBox_src.Items30" xml:space="preserve">
+    <value>ms</value>
+  </data>
+  <data name="toolStripComboBox_src.Items31" xml:space="preserve">
+    <value>mt</value>
+  </data>
+  <data name="toolStripComboBox_src.Items32" xml:space="preserve">
+    <value>no</value>
+  </data>
+  <data name="toolStripComboBox_src.Items33" xml:space="preserve">
+    <value>fa</value>
+  </data>
+  <data name="toolStripComboBox_src.Items34" xml:space="preserve">
+    <value>pl</value>
+  </data>
+  <data name="toolStripComboBox_src.Items35" xml:space="preserve">
+    <value>pt</value>
+  </data>
+  <data name="toolStripComboBox_src.Items36" xml:space="preserve">
+    <value>otq</value>
+  </data>
+  <data name="toolStripComboBox_src.Items37" xml:space="preserve">
+    <value>ro</value>
+  </data>
+  <data name="toolStripComboBox_src.Items38" xml:space="preserve">
+    <value>ru</value>
+  </data>
+  <data name="toolStripComboBox_src.Items39" xml:space="preserve">
+    <value>sr-Cyrl</value>
+  </data>
+  <data name="toolStripComboBox_src.Items40" xml:space="preserve">
+    <value>sr-Latn</value>
+  </data>
+  <data name="toolStripComboBox_src.Items41" xml:space="preserve">
+    <value>sk</value>
+  </data>
+  <data name="toolStripComboBox_src.Items42" xml:space="preserve">
+    <value>sl</value>
+  </data>
+  <data name="toolStripComboBox_src.Items43" xml:space="preserve">
+    <value>es</value>
+  </data>
+  <data name="toolStripComboBox_src.Items44" xml:space="preserve">
+    <value>sv</value>
+  </data>
+  <data name="toolStripComboBox_src.Items45" xml:space="preserve">
+    <value>th</value>
+  </data>
+  <data name="toolStripComboBox_src.Items46" xml:space="preserve">
+    <value>tr</value>
+  </data>
+  <data name="toolStripComboBox_src.Items47" xml:space="preserve">
+    <value>uk</value>
+  </data>
+  <data name="toolStripComboBox_src.Items48" xml:space="preserve">
+    <value>ur</value>
+  </data>
+  <data name="toolStripComboBox_src.Items49" xml:space="preserve">
+    <value>vi</value>
+  </data>
+  <data name="toolStripComboBox_src.Items50" xml:space="preserve">
+    <value>cy</value>
+  </data>
+  <data name="toolStripComboBox_src.Items51" xml:space="preserve">
+    <value>yua</value>
+  </data>
+  <data name="toolStripComboBox_src.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 32</value>
+  </data>
+  <data name="toolStripComboBox_src.Text" xml:space="preserve">
+    <value>源语言</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items" xml:space="preserve">
+    <value>ar</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items1" xml:space="preserve">
+    <value>bs-Latn</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items2" xml:space="preserve">
+    <value>bg</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items3" xml:space="preserve">
+    <value>ca</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items4" xml:space="preserve">
+    <value>zh-CHS</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items5" xml:space="preserve">
+    <value>zh-CHT</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items6" xml:space="preserve">
+    <value>hr</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items7" xml:space="preserve">
+    <value>cs</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items8" xml:space="preserve">
+    <value>da</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items9" xml:space="preserve">
+    <value>nl</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items10" xml:space="preserve">
+    <value>en</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items11" xml:space="preserve">
+    <value>et</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items12" xml:space="preserve">
+    <value>fi</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items13" xml:space="preserve">
+    <value>fr</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items14" xml:space="preserve">
+    <value>de</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items15" xml:space="preserve">
+    <value>el</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items16" xml:space="preserve">
+    <value>ht</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items17" xml:space="preserve">
+    <value>he</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items18" xml:space="preserve">
+    <value>hi</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items19" xml:space="preserve">
+    <value>mww</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items20" xml:space="preserve">
+    <value>hu</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items21" xml:space="preserve">
+    <value>id</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items22" xml:space="preserve">
+    <value>it</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items23" xml:space="preserve">
+    <value>ja</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items24" xml:space="preserve">
+    <value>sw</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items25" xml:space="preserve">
+    <value>tlh</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items26" xml:space="preserve">
+    <value>tlh-Qaak</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items27" xml:space="preserve">
+    <value>ko</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items28" xml:space="preserve">
+    <value>lv</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items29" xml:space="preserve">
+    <value>lt</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items30" xml:space="preserve">
+    <value>ms</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items31" xml:space="preserve">
+    <value>mt</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items32" xml:space="preserve">
+    <value>no</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items33" xml:space="preserve">
+    <value>fa</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items34" xml:space="preserve">
+    <value>pl</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items35" xml:space="preserve">
+    <value>pt</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items36" xml:space="preserve">
+    <value>otq</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items37" xml:space="preserve">
+    <value>ro</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items38" xml:space="preserve">
+    <value>ru</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items39" xml:space="preserve">
+    <value>sr-Cyrl</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items40" xml:space="preserve">
+    <value>sr-Latn</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items41" xml:space="preserve">
+    <value>sk</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items42" xml:space="preserve">
+    <value>sl</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items43" xml:space="preserve">
+    <value>es</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items44" xml:space="preserve">
+    <value>sv</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items45" xml:space="preserve">
+    <value>th</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items46" xml:space="preserve">
+    <value>tr</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items47" xml:space="preserve">
+    <value>uk</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items48" xml:space="preserve">
+    <value>ur</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items49" xml:space="preserve">
+    <value>vi</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items50" xml:space="preserve">
+    <value>cy</value>
+  </data>
+  <data name="toolStripComboBox_dst.Items51" xml:space="preserve">
+    <value>yua</value>
+  </data>
+  <data name="toolStripComboBox_dst.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 32</value>
+  </data>
+  <data name="toolStripComboBox_dst.Text" xml:space="preserve">
+    <value>目标语言</value>
+  </data>
+  <data name="toolStripSeparator1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>191, 6</value>
+  </data>
+  <data name="toolStripMenuItem_trans.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="toolStripMenuItem_trans.Size" type="System.Drawing.Size, System.Drawing">
+    <value>194, 30</value>
+  </data>
+  <data name="toolStripMenuItem_trans.Text" xml:space="preserve">
+    <value>翻译</value>
+  </data>
+  <data name="contextMenuStrip1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>195, 112</value>
+  </data>
+  <data name="contextMenuStrip1.Text" xml:space="preserve">
+    <value>翻译...</value>
+  </data>
+  <data name="&gt;&gt;contextMenuStrip1.Name" xml:space="preserve">
+    <value>contextMenuStrip1</value>
+  </data>
+  <data name="&gt;&gt;contextMenuStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="textBox1.Font" type="System.Drawing.Font, System.Drawing">
     <value>宋体, 10.5pt</value>
@@ -181,7 +532,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;textBox1.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>5</value>
   </data>
   <data name="button1.Font" type="System.Drawing.Font, System.Drawing">
     <value>宋体, 10.5pt</value>
@@ -208,7 +559,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>4</value>
   </data>
   <data name="button2.Enabled" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -238,7 +589,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;button2.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>3</value>
   </data>
   <data name="button3.Font" type="System.Drawing.Font, System.Drawing">
     <value>宋体, 10.5pt</value>
@@ -265,7 +616,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;button3.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>2</value>
   </data>
   <data name="listBox1.ItemHeight" type="System.Int32, mscorlib">
     <value>18</value>
@@ -301,7 +652,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;listBox1.ZOrder" xml:space="preserve">
-    <value>0</value>
+    <value>1</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
@@ -317,6 +668,30 @@
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>BGI脚本查看器</value>
+  </data>
+  <data name="&gt;&gt;toolStripComboBox_src.Name" xml:space="preserve">
+    <value>toolStripComboBox_src</value>
+  </data>
+  <data name="&gt;&gt;toolStripComboBox_src.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripComboBox_dst.Name" xml:space="preserve">
+    <value>toolStripComboBox_dst</value>
+  </data>
+  <data name="&gt;&gt;toolStripComboBox_dst.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripSeparator1.Name" xml:space="preserve">
+    <value>toolStripSeparator1</value>
+  </data>
+  <data name="&gt;&gt;toolStripSeparator1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem_trans.Name" xml:space="preserve">
+    <value>toolStripMenuItem_trans</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem_trans.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>MainForm</value>
