@@ -87,7 +87,7 @@ namespace BGIScrViewer
 
             var dstlist = new System.Collections.ArrayList();
             String[] dst;
-            for (int i = 0; i < src.GetUpperBound(0); i++)
+            for (int i = 0; i <= src.GetUpperBound(0); i++)
             {
                 String tmp = "";
                 if (textBox6.Text != "")
@@ -98,7 +98,7 @@ namespace BGIScrViewer
             }
             dst = (String[])dstlist.ToArray(typeof(string));
 
-            for (int i = 0; i < src.GetUpperBound(0); i++)
+            for (int i = 0; i <= src.GetUpperBound(0); i++)
             {
                 BGIUtils.Process(src[i], dst[i], MainForm.cp);
                 progressBar1.Value = i + 1;
